@@ -9,7 +9,6 @@ Overall the team did a great job coming together and getting the work done.
 # Summary
 
 For this project we aim to assess wine quality, and whether it is possible to classify a wine based on its chemical properties. 
-# Conclusion
 
 ## **Question 1**:
 Is a "Good" wine able to be predicted via the analysis of a wine's physicochemical properties? 
